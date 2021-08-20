@@ -1,2 +1,2 @@
 #!/bin/bash
-chown vincent changrp staff
+chown vincent changrp staff *
